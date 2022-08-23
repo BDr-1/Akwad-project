@@ -20,7 +20,7 @@
 <link rel="stylesheet" href="./CSS/bootstrap.min.css">
 <link rel="stylesheet" href="./CSS/all.min.css">
  <!--Style  -->
-  <link rel="stylesheet" href="../Akwad-php/CSS/style.css">
+  <link rel="stylesheet" href="./CSS/style.css">
   
 <!-- Fonts -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
